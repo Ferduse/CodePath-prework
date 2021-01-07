@@ -1,7 +1,7 @@
 Hello World App
 
 ### App Description
- A simple Hello World app that lets you change the text color, the background color, adds a text, lets customize a text and helps you reset to the default setting all with one click! 
+ A simple Hello World app that lets you change the text color, the background color, adds a text, lets you customize a text and helps you reset to the default setting all with one click! 
 
 ### App Walk-though
 `gif`
