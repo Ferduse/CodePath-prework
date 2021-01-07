@@ -6,7 +6,7 @@ Hello World App
 ### App Walk-though
 `gif`
 
-<img src="downloads/prework.mp4" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/FqU9fyGRbf.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1609979855&Signature=9nDqY%2BbDuf5KsXzzuv1memlF0pA%3D" width=200><br>
 
 
 ### Required User Stories
