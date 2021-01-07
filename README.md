@@ -1,14 +1,13 @@
 Hello World App
 
 ### App Description
-`TODO://` A simple Hello World app that lets you change the text color, the background color, adds a text, lets customize a text and helps you reset to the default setting all with one click! 
+ A simple Hello World app that lets you change the text color, the background color, adds a text, lets customize a text and helps you reset to the default setting all with one click! 
 
 ### App Walk-though
-`TODO://`  `gif`
+`gif`
 
-<img src="https://recordit.co/FqU9fyGRbf" width=200><br>
+<img src="downloads/prework.mp4" width=200><br>
 
-`TODO://`
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
